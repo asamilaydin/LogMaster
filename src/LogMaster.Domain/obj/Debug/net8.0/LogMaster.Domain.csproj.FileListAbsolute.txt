@@ -1,0 +1,12 @@
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/bin/Debug/net8.0/LogMaster.Domain.deps.json
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/bin/Debug/net8.0/LogMaster.Domain.dll
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/bin/Debug/net8.0/LogMaster.Domain.pdb
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.AssemblyInfoInputs.cache
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.AssemblyInfo.cs
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.csproj.CoreCompileInputs.cache
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.sourcelink.json
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.dll
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/refint/LogMaster.Domain.dll
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/LogMaster.Domain.pdb
+/Users/ahmet/Desktop/LogMaster/src/LogMaster.Domain/obj/Debug/net8.0/ref/LogMaster.Domain.dll

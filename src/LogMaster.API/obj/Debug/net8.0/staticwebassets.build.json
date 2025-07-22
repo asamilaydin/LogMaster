@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nrE7QVIWSB4MnIi+fEpm6wS34bNf0MxZD2/T+ZAwacs=",
+  "Source": "LogMaster.API",
+  "BasePath": "_content/LogMaster.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

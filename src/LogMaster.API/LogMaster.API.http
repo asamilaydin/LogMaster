@@ -1,0 +1,6 @@
+@LogMaster.API_HostAddress = http://localhost:5273
+
+GET {{LogMaster.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
